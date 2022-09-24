@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Water_Heater_SYM")(type "KiCad")(uri "${KIPRJMOD}/Water_Heater_SYM.kicad_sym")(options "")(descr ""))
+)
